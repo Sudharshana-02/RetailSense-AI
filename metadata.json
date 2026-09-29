@@ -1,0 +1,6 @@
+{
+  "name": "RetailSense AI - Edge AI Retail Intelligence Platform",
+  "description": "RetailSense AI turns existing store CCTV cameras into real-time shopper analytics, shelf monitoring, queue intelligence, and privacy-preserving edge AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
